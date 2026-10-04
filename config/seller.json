@@ -1,0 +1,11 @@
+{
+  "latestVersion": "0.2.2",
+  "updateUrl": "https://github.com/faridislam-me/se-apps-releases/releases/download/v0.2.2/se-seller-{arch}.apk",
+  "forceUpdate": false,
+  "changelog": [
+    "অ্যাপের ভেতর থেকেই নতুন আপডেট ডাউনলোড ও ইনস্টল করার সুবিধা যোগ করা হয়েছে",
+    "নতুন আইকন ও স্প্ল্যাশ স্ক্রিন",
+    "পুশ নোটিফিকেশন চালু করা হয়েছে",
+    "ইনভয়েস ও পিডিএফ ডাউনলোড ঠিক করা হয়েছে"
+  ]
+}
