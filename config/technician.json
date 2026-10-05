@@ -1,10 +1,10 @@
 {
-  "latestVersion": "0.2.3",
-  "updateUrl": "https://github.com/faridislam-me/se-apps-releases/releases/download/v0.2.3/se-technician-{arch}.apk",
+  "latestVersion": "0.2.4",
+  "updateUrl": "https://github.com/faridislam-me/se-apps-releases/releases/download/v0.2.4/se-technician-{arch}.apk",
   "forceUpdate": false,
   "changelog": [
-    "উপরের স্ট্যাটাস বার ও নিচের নেভিগেশন বারের আইকন সাদা করা হয়েছে",
-    "নিচের নেভিগেশন বারের নিচের বাড়তি ফাঁকা জায়গা কমানো হয়েছে",
-    "সার্ভিসের স্ট্যাটাস এখন আলাদা রঙে ও নামে দেখায়"
+    "নতুন সাপ্লায়ার অ্যাপ যোগ করা হয়েছে",
+    "ইন্টারনেট চলে গেলে সাথে সাথে সুন্দর \"ইন্টারনেট সংযোগ নেই\" স্ক্রিন আসবে, সংযোগ ফিরলে নিজে থেকেই পেজ লোড হবে",
+    "উপরের স্ট্যাটাস বার ও নিচের নেভিগেশন বারের আইকন সাদা করা হয়েছে"
   ]
 }
