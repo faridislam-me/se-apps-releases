@@ -1,10 +1,9 @@
 {
-  "latestVersion": "0.2.4",
-  "updateUrl": "https://github.com/faridislam-me/se-apps-releases/releases/download/v0.2.4/se-seller-{arch}.apk",
+  "latestVersion": "0.2.5",
+  "updateUrl": "https://github.com/faridislam-me/se-apps-releases/releases/download/v0.2.5/se-seller-{arch}.apk",
   "forceUpdate": false,
   "changelog": [
-    "নতুন সাপ্লায়ার অ্যাপ যোগ করা হয়েছে",
-    "ইন্টারনেট চলে গেলে সাথে সাথে সুন্দর \"ইন্টারনেট সংযোগ নেই\" স্ক্রিন আসবে, সংযোগ ফিরলে নিজে থেকেই পেজ লোড হবে",
-    "উপরের স্ট্যাটাস বার ও নিচের নেভিগেশন বারের আইকন সাদা করা হয়েছে"
+    "উপরের স্ট্যাটাস বার ও নিচের নেভিগেশন বারের আইকন সব ফোনে সাদা দেখানোর ঠিক করা হয়েছে",
+    "ছোট সমস্যা ঠিক করা ও পারফরম্যান্স উন্নত করা হয়েছে"
   ]
 }
