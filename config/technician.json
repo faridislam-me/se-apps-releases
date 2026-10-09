@@ -1,9 +1,9 @@
 {
-  "latestVersion": "0.2.6",
-  "updateUrl": "https://github.com/faridislam-me/se-apps-releases/releases/download/v0.2.6/se-technician-{arch}.apk",
+  "latestVersion": "0.2.7",
+  "updateUrl": "https://github.com/faridislam-me/se-apps-releases/releases/download/v0.2.7/se-technician-{arch}.apk",
   "forceUpdate": false,
   "changelog": [
-    "ইলেকট্রিশিয়ান অ্যাপে নতুন সুন্দর স্প্ল্যাশ স্ক্রিন যোগ করা হয়েছে",
+    "ইলেকট্রিশিয়ান অ্যাপের নতুন স্প্ল্যাশ স্ক্রিন যোগ করা হয়েছে",
     "ছোট সমস্যা ঠিক করা ও পারফরম্যান্স উন্নত করা হয়েছে"
   ]
 }
