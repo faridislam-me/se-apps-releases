@@ -1,10 +1,9 @@
 {
-  "latestVersion": "0.2.8",
-  "updateUrl": "https://github.com/faridislam-me/se-apps-releases/releases/download/v0.2.8/se-customer-{arch}.apk",
+  "latestVersion": "0.2.9",
+  "updateUrl": "https://github.com/faridislam-me/se-apps-releases/releases/download/v0.2.9/se-customer-{arch}.apk",
   "forceUpdate": false,
   "changelog": [
-    "নামাজের ওয়াক্ত শুরুর রিমাইন্ডার যোগ করা হয়েছে (নামাজের বিস্তারিত পেইজে ঘণ্টা আইকনে চালু করুন)",
-    "নতুন আইপিএস ক্যালকুলেটর অ্যাপ যোগ করা হয়েছে",
+    "পুশ নোটিফিকেশন এখন ফোনের স্ট্যাটাস বারে দেখাবে (অ্যাপ খোলা থাকলেও)",
     "ছোট সমস্যা ঠিক করা ও পারফরম্যান্স উন্নত করা হয়েছে"
   ]
 }
