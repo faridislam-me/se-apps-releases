@@ -1,9 +1,10 @@
 {
-  "latestVersion": "0.2.12",
-  "updateUrl": "https://github.com/faridislam-me/se-apps-releases/releases/download/v0.2.12/se-customer-{arch}.apk",
+  "latestVersion": "0.2.13",
+  "updateUrl": "https://github.com/faridislam-me/se-apps-releases/releases/download/v0.2.13/se-customer-{arch}.apk",
   "forceUpdate": false,
   "changelog": [
-    "নোটিফিকেশন আসলে স্ট্যাটাস বারে এখন পরিষ্কার SE আইকন দেখাবে",
+    "নোটিফিকেশন আসলে এখন স্ট্যাটাস বারে SE আইকন দেখাবে, শব্দ ও ব্যানারসহ",
+    "নোটিফিকেশন বন্ধ বা সাইলেন্ট থাকলে অ্যাপ নিজেই জানাবে ও এক চাপে সেটিংস খুলে দেবে",
     "নতুন আপডেট এলে অ্যাপ খোলার সময়ই জানিয়ে দেবে",
     "ছোট সমস্যা ঠিক করা ও পারফরম্যান্স উন্নত করা হয়েছে"
   ]
