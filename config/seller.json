@@ -1,9 +1,10 @@
 {
-  "latestVersion": "0.2.11",
-  "updateUrl": "https://github.com/faridislam-me/se-apps-releases/releases/download/v0.2.11/se-seller-{arch}.apk",
+  "latestVersion": "0.2.12",
+  "updateUrl": "https://github.com/faridislam-me/se-apps-releases/releases/download/v0.2.12/se-seller-{arch}.apk",
   "forceUpdate": false,
   "changelog": [
-    "পুশ নোটিফিকেশন এখন ফোনের স্ট্যাটাস বারে দেখাবে (অ্যাপ খোলা থাকলেও)",
+    "নোটিফিকেশন আসলে স্ট্যাটাস বারে এখন পরিষ্কার SE আইকন দেখাবে",
+    "নতুন আপডেট এলে অ্যাপ খোলার সময়ই জানিয়ে দেবে",
     "ছোট সমস্যা ঠিক করা ও পারফরম্যান্স উন্নত করা হয়েছে"
   ]
 }
